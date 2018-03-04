@@ -1,8 +1,8 @@
 ## Deck of Cards
-User Story - Deck of Cards Summary
+**User Story - Deck of Cards Summary**
 - As a magician, I'd like to shuffle, draw and sort cards so that I can perform magic tricks
 
-Acceptance Criteria
+**Acceptance Criteria**
 - I can shuffle the deck of cards.
 - I can draw any given number of cards from the deck, with the cards being removed from the original deck.
 - I can draw any given number of cards from the deck and then sort the drawn cards, with the cards being removed from the original deck.

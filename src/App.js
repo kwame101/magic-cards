@@ -1,5 +1,6 @@
 import React from 'react';
+import Board from "./components/Board";
 
-const App = () => <div> Deck of cards</div>
+const App = () => <div className="ui container"> <Board /></div>
 
 export default App;
